@@ -1,0 +1,17 @@
+nav{
+    justify-content: space-around;
+    /* align-items: center; */
+    background: rgb(77, 47, 83);
+    color: white ;
+    min-height: 10vh; 
+    list-style: none;
+    
+}
+.navlinks{
+display: flex;
+list-style: none;
+margin-left: 70%;
+justify-content: space-evenly;
+text-transform:uppercase;
+}
+

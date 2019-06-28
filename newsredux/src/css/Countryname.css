@@ -1,0 +1,49 @@
+.news{
+    display: block;
+    border-collapse: separate   
+}
+.para{
+   
+  color: white;
+  background-color: cadetblue;
+}
+.img{
+    width: 300px;
+    height: 200px;
+}
+.desc{
+margin-left: 75%;
+}
+.time{
+    float: left;
+    color: aquamarine;
+}
+.header{
+    margin-right: 13%;
+    text-align: center;
+}
+.body{
+    background-color: chocolate;
+}
+.nation{
+   color: whitesmoke;
+   text-align: center;
+}
+.ul{
+    display: flex;
+    margin-left: 35%;
+}
+.ul .li{
+    list-style: none;
+    margin-right: .5%;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    background-color: grey ;
+    border-radius: 8px;
+    color: white;
+}
+.ul .li:hover{
+    background-color: red;
+    transition: .1 ease;
+    cursor: pointer;
+}
